@@ -48,4 +48,3 @@ Below are screenshots demonstrating the API endpoints:
 
 ### Delete Product
 ![DELETE BY ID](DELETE%20BY%20ID.png)
-Place all images in the `images/` directory relative to this README.
