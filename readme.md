@@ -34,17 +34,17 @@ This Flask-based REST API allows you to manage a simple product inventory with C
 Below are screenshots demonstrating the API endpoints:
 
 ### Get All Products
-![GET ALL](GET%20ALL.png)
+![GET ALL](images/GET%20ALL.png)
 
 ### Get Product by ID
-![GET BY ID](GET%20BY%20ID.png)
+![GET BY ID](images/GET%20BY%20ID.png)
 
 ### Create Product
-![POST - CREATE](POST%20-%20CREATE.png)
-![POST - CREATE 2](POST%20-%20CREATE%202.png)
+![POST - CREATE](images/POST%20-%20CREATE.png)
+![POST - CREATE 2](images/POST%20-%20CREATE%202.png)
 
 ### Update Product
-![POST - MODIFY](POST%20-%20MODIFY.png)
+![POST - MODIFY](images/POST%20-%20MODIFY.png)
 
 ### Delete Product
-![DELETE BY ID](DELETE%20BY%20ID.png)
+![DELETE BY ID](images/DELETE%20BY%20ID.png)
